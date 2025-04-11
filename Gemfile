@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "tldr", path: "../../tendersearls/tldr"
+gem "tldr"
 gem "standard"
 gem "rake"
